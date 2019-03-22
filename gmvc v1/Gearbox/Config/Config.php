@@ -1,5 +1,12 @@
 <?php
-
+// Project Name : GMVC A Framework for Build Cross Platform Easily
+// Project Version : v.01.5
+//Author : Krishanu Bhattacharya
+//Get This Project: https://github.com/aloraytech/G-Framework
+// License Type : GPL v3.0 Apply for This Version
+// Note : This version is a beta version and this project under development. The Final Product may content some other licenseing terms as per 
+// per part of respective writings on this application scripts directly or indirectly. Please check https://github.com/aloraytech/G-Framework/ for more info.
+//
 
 // linking with file system
 
